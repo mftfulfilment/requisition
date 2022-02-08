@@ -181,7 +181,7 @@
                                             <option value="business@mftfulfillmentcentre.com">Business Development
                                             </option>
                                             <option value="beverly.mft@gmail.com">Customer Service/Call Center</option>
-                                            <option value="godwins.juma@speedballcourier.com">Finance</option>
+                                            <option value="financeoffice@mftfulfillmentcentre.com">Finance</option>
                                             <option value="support@mftfulfillmentcentre.com">I.T</option>
                                             <option value="operationske@mftfulfillmentcentre.com">Operations</option>
                                             <option value="operationske@mftfulfillmentcentre.com">Warehouse</option>
