@@ -32,7 +32,7 @@ class Requisitionmail6 extends Mailable
     public function build()
     {
         return $this->markdown('mail.mail6')
-                    ->to('godwins.juma@speedballcourier.com')
+                    ->to('d.okello@speedballcourier.com')
                     ->from('mft.portal@gmail.com', $this->data['RequisitionerName'])
                     ->subject('Agent Requisition');
     }
